@@ -1,6 +1,6 @@
 # Default values for metrics-logs-python-app.
 
-replicaCount: 3
+replicaCount: 2
 
 image:
   repository: rahees9983/python-log-metrics-app-grafan
