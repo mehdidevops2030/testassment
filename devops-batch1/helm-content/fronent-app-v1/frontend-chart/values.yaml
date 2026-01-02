@@ -1,5 +1,5 @@
 # Default values for frontend chart
-replicaCount: 5
+replicaCount: 3
 
 image:
   repository: rahees9983/deployment-strategy-app
